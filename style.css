@@ -90,3 +90,8 @@ h1 {
 .icons {
   color: rgb(253, 195, 48);
 }
+
+.cards {
+  width: 298px;
+  height: 460px;
+}
