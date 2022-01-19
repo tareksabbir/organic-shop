@@ -86,3 +86,7 @@ h1 {
   background-color: rgb(189, 18, 69);
   transition: 0.3s all ease;
 }
+
+.icons {
+  color: rgb(253, 195, 48);
+}
