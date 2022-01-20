@@ -136,3 +136,7 @@ h1 {
 .news::placeholder{
   color: white;
 }
+
+.news p{
+  margin: 0;
+}
